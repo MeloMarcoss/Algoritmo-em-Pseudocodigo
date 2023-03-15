@@ -1,4 +1,21 @@
 # Algoritmo-em-Pseudocodigo
-Apresentar técnicas para a elaboração de algoritmos e comandos para a implementação de algoritmos na linguagem C
+# Técnicas e comandos para algoritmos em C
 
-Caso interesse, segue nesse link: https://replit.com/@MeloMarcos?path=folder/Algoritmos%20em%20pseudoc%C3%B3digo
+Este repositório tem como objetivo apresentar técnicas e comandos para elaboração e implementação de algoritmos na linguagem C. Aqui você encontrará pastas organizadas com exemplos práticos, que visam ajudar tanto iniciantes quanto programadores eperientes.
+
+# Pastas
+
+  Algoritmo;
+  Exemplo;
+  Estrutura Sequencial;
+  Estrutura Condicional;
+  Estrutura de Repetição;
+  ...
+
+# Utilização
+
+Para utilizar este repositório, é necessário ter o compilador de C instalado em seu computador ou ter a conta no site [Repl.it][https://replit.com/] para compilar de forma online. Você também pode acessar os códigos no Repli.it, por meio dos links abaixo:
+
+
+
+# Referências
