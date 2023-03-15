@@ -6,9 +6,13 @@ Este repositório tem como objetivo apresentar técnicas e comandos para elabora
 # Pastas
 
   Algoritmo;
-  Exemplo;
+  
+  Exemplos;
+  
   Estrutura Sequencial;
+  
   Estrutura Condicional;
+  
   Estrutura de Repetição;
   ...
 
