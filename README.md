@@ -21,5 +21,6 @@ Este repositório tem como objetivo apresentar técnicas e comandos para elabora
 Para utilizar este repositório, é necessário ter o compilador de C instalado em seu computador ou ter a conta no site [Repl.it](https://replit.com/) para compilar de forma online. Você também pode acessar os códigos no Repli.it, por meio dos links abaixo:
 
   [Multiplicação de dois números](https://replit.com/@MeloMarcos/Multiplicacao-de-dois-numeros?v=1)
+  [Divisão de dois números](https://replit.com/@MeloMarcos/Divisao-de-dois-numeros?v=1)
 
 # Referências
