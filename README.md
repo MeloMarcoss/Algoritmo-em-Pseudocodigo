@@ -14,6 +14,7 @@ Este repositório tem como objetivo apresentar técnicas e comandos para elabora
   Estrutura Condicional;
   
   Estrutura de Repetição;
+  
   ...
 
 # Utilização
@@ -24,4 +25,9 @@ Para utilizar este repositório, é necessário ter o compilador de C instalado 
   
   [Divisão de dois números](https://replit.com/@MeloMarcos/Divisao-de-dois-numeros?v=1)
 
+  [Média Aritmética](https://replit.com/@MeloMarcos/Media-Aritmetica?v=1)
+
+  
+
 # Referências
+  Livro: Fundamentos da Programação de Computadores - Gomes/Veneruchi, 2002
