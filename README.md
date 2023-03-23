@@ -27,7 +27,7 @@ Para utilizar este repositório, é necessário ter o compilador de C instalado 
 
   [Média Aritmética](https://replit.com/@MeloMarcos/Media-Aritmetica?v=1)
 
-  
+  [Exemplo](https://replit.com/@MeloMarcos/Exemplo?v=1)
 
 # Referências
   Livro: Fundamentos da Programação de Computadores - Gomes/Veneruchi, 2002
