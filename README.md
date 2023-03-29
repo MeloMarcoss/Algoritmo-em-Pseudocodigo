@@ -27,6 +27,9 @@ Para utilizar este repositório, é necessário ter o compilador de C instalado 
 
   [Média Aritmética](https://replit.com/@MeloMarcos/Media-Aritmetica?v=1)
 
+  Estrutura Condicional:
+    [Estrutura Condicional 1](https://replit.com/@MeloMarcos/Estrutura-Condicional-1?v=1)
+
   [Exemplo](https://replit.com/@MeloMarcos/Exemplo?v=1)
 
 # Referências
