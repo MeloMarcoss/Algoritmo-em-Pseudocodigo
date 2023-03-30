@@ -29,6 +29,10 @@ Para utilizar este repositório, é necessário ter o compilador de C instalado 
   
   [Estrutura Condicional 1](https://replit.com/@MeloMarcos/Estrutura-Condicional-1?v=1)
 
+  [Estrutura Condicional 2](https://replit.com/@MeloMarcos/Estrutura-Condicional-2?v=1)
+
+  [Estrutura Condicional 3](https://replit.com/@MeloMarcos/Estrutura-Condicional-3?v=1)
+
   [Exemplo](https://replit.com/@MeloMarcos/Exemplo?v=1)
 
 # Referências
